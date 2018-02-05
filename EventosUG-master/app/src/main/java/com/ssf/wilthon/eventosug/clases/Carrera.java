@@ -12,8 +12,6 @@ public class Carrera {
     String carrera;
     String estado;
 
-    //hola que tal
-
     public int getId() {
         return id;
     }
