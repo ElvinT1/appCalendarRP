@@ -1,0 +1,31 @@
+<resources>
+    <!--- Main -->
+    <string name="mision">Mision</string>
+    <string name="vision">Vision</string>
+    <string name="TextMision">Es un centro del saber que genera, difunde y aplica el conocimiento, habilidades y destrezas, con valores morales éticos y cívicos, a través de la docencia, investigación y vinculación con la colectividad, promoviendo el progreso, crecimiento y desarrollo sustentable sostenible del país, para mejorar la calidad de vida de la sociedad.</string>
+    <string name="TextVision">Hasta el 2015, la UG será un centro de formación superior con liderazgo y proyección nacional e internacional, integrada al desarrollo académico, tecnológico, científico, cultural, social, ambiental y productivo; comprometida con la innovación, el emprendimiento y el cultivo de los valores morales, éticos y cívicos.</string>
+
+    <string name="app_name">EventosUG</string>
+    <string name="titulo_login">Iniciar Sesion</string>
+    <string name="btn_login">Entrar</string>
+    <string name="hint_usuario">E-mail</string>
+    <string name="hint_cedula">Cédula</string>
+    <string name="dominio">wilthon.penac@ug.edu.ec</string>
+    <string name="hint_pass">Contraseña</string>
+
+    <string name="error_field_required">Ingrese su E-mail</string>
+    <string name="error_invalid_email">Formato de E-mail incorrecto</string>
+    <string name="error_invalid_password">Formato de Contraseña incorrecto</string>
+    <string name="error_authentication">Error de Usuario o Contraseña</string>
+    <string name="error_cedula">Numero de Cedula Incorrecto</string>
+
+    <!--- Menu -->
+    <string name="cerrarSesion">Cerrar Sesion</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="usuario">Usuario</string>
+    <string name="menu">Menu</string>
+
+    <!--- Activity Inicio -->
+    <string name="tvinicio">Notificaciones</string>
+    <string name="tvorden">Ordenar:</string>
+</resources>

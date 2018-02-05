@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".InicioActivity">
+    <item android:id="@+id/usuario"
+        android:icon="@drawable/ic_usuario"
+        android:title="@string/usuario" />
+    <item
+        android:id="@+id/preferencias"
+        android:icon="@drawable/ic_prefeencias"
+        android:title="@string/preferencias" />
+    <item
+        android:id="@+id/cerrarSesion"
+        android:icon="@drawable/ic_cerrarsesion"
+        android:title="@string/cerrarSesion" />
+
+</menu>
